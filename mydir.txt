@@ -1,0 +1,13 @@
+total 64
+drwxr-xr-x  12 jordanm  staff  408 Feb 26 11:38 .
+drwxr-xr-x   5 jordanm  staff  170 Feb 26 09:36 ..
+drwxr-xr-x  12 jordanm  staff  408 Feb 26 11:38 .git
+-rw-r--r--   1 jordanm  staff   93 Feb 26 10:57 README
+-rw-r--r--   1 jordanm  staff  164 Feb 26 10:39 jabberwocky.txt
+-rw-r--r--   1 jordanm  staff   28 Feb 26 11:31 move-me3.txt
+-rw-r--r--   1 jordanm  staff   27 Feb 26 11:31 move-me4.txt
+-rw-r--r--   1 jordanm  staff   28 Feb 26 11:31 move-me5.txt
+-rw-r--r--   1 jordanm  staff   28 Feb 26 11:31 moveme1.txt
+-rw-r--r--   1 jordanm  staff   28 Feb 26 11:31 moveme2.txt
+-rw-r--r--   1 jordanm  staff    0 Feb 26 11:38 mydir.txt
+-rw-r--r--   1 jordanm  staff    9 Feb 26 11:24 walrus-oyster.txt
